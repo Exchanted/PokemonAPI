@@ -1,3 +1,4 @@
+<!-- Written by Callum Addison -->
 <?php
   function get_pokemon_data() {
     $url = "https://pokeapi.co/api/v2/pokemon?limit=10&offset=500";
